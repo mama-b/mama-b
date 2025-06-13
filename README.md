@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @mama-b
-- 👀 I’m interested in ...software Engineering
+- 👋 Hi, I’m Kelvin
+- 👀 I’m an Aspiring Software Engineer with strong focus on Cloud Computing 
 - 🌱 I’m currently learning ...frontend development
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...addokelvin0801@gmail.com
